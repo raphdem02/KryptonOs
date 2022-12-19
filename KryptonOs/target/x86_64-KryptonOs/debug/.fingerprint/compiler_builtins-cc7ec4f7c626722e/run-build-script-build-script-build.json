@@ -1,0 +1,1 @@
+{"rustc":10190520581610401805,"features":"","target":0,"profile":0,"path":0,"deps":[[17115693669385569923,"build_script_build",false,3068302639174632304]],"local":[{"RerunIfChanged":{"output":"x86_64-KryptonOs/debug/build/compiler_builtins-cc7ec4f7c626722e/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
