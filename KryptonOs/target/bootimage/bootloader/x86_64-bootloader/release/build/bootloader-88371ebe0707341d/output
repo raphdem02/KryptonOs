@@ -1,7 +1,7 @@
 cargo:rerun-if-changed=/home/raph/Documents/GitHub/KryptonOs/KryptonOs/Cargo.toml
 cargo:rustc-link-search=native=/home/raph/Documents/GitHub/KryptonOs/KryptonOs/target/bootimage/bootloader/x86_64-bootloader/release/build/bootloader-88371ebe0707341d/out
-cargo:rustc-link-lib=static=kernel_bin-KryptonOs
+cargo:rustc-link-lib=static=kernel_bin-should_panic-c6c9534f1288c0ae
 cargo:rerun-if-env-changed=KERNEL
 cargo:rerun-if-env-changed=KERNEL_MANIFEST
-cargo:rerun-if-changed=/home/raph/Documents/GitHub/KryptonOs/KryptonOs/target/x86_64-KryptonOs/debug/KryptonOs
+cargo:rerun-if-changed=/home/raph/Documents/GitHub/KryptonOs/KryptonOs/target/x86_64-KryptonOs/debug/deps/should_panic-c6c9534f1288c0ae
 cargo:rerun-if-changed=build.rs

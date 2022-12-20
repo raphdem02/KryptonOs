@@ -1,0 +1,1 @@
+/home/raph/Documents/GitHub/KryptonOs/KryptonOs/target/x86_64-KryptonOs/debug/libKryptonOs.rlib: /home/raph/Documents/GitHub/KryptonOs/KryptonOs/src/lib.rs /home/raph/Documents/GitHub/KryptonOs/KryptonOs/src/serial.rs /home/raph/Documents/GitHub/KryptonOs/KryptonOs/src/vga_buffer.rs
